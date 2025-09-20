@@ -18,6 +18,7 @@ public class GitTrainingApplication {
         System.out.println("change 9 in new branch num 1-1 change from local repository!");
         System.out.println("change 10 in new branch num 1-1 change from remote repository! change 2");
         System.out.println("change 11 in new branch num 1-1 change from remote repository!");
+        System.out.println("change 12 in new branch contained new feature!");
         SpringApplication.run(GitTrainingApplication.class, args);
     }
 
