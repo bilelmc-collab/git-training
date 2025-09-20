@@ -10,7 +10,7 @@ public class GitTrainingApplication {
          System.out.println("change 2!");
         System.out.println("change 3!");
         System.out.println("change 4!");
-        System.out.println("change 5!");
+        System.out.println("change 5 edited in remote repository!");
         SpringApplication.run(GitTrainingApplication.class, args);
     }
 
