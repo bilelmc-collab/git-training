@@ -12,6 +12,7 @@ public class GitTrainingApplication {
         System.out.println("change 4!");
         System.out.println("change 5 edited in local repository!");
         System.out.println("change 6 in new branch num 1!");
+        System.out.println("change 7 in new branch num 1!");
         SpringApplication.run(GitTrainingApplication.class, args);
     }
 
